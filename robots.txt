@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-g85ntj.yoursingles.online/sitemap.xml
